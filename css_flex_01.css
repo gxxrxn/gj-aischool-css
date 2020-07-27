@@ -1,0 +1,15 @@
+.box_wrap {
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 3px solid indianred;
+    border-radius: 10px;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: indianred;
+    border-radius: 10px;
+}
