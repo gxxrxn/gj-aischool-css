@@ -1,0 +1,19 @@
+.box_wrap {
+    width: 330px;
+    height: 110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: indianred;
+    border-radius: 10px;
+}
+.box_margin_01 {
+    margin-left: 140px;
+}
+.box_margin_02 {
+    margin-left: 280px;
+}
